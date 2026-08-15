@@ -145,7 +145,7 @@
             "last_commit": "2026-08-14T01:26:40Z",
             "owner": "Jguer",
             "repo": "yay",
-            "stars": 13676
+            "stars": 13678
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-01-09T07:31:27Z",
             "owner": "Morganamilo",
             "repo": "paru",
-            "stars": 8937
+            "stars": 8939
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2025-08-10T21:04:16Z",
             "owner": "Alessandro-Salerno",
             "repo": "tarman",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:53:01.278Z",
+    "last_updated": "2026-08-15T22:51:41.677Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Arch",
