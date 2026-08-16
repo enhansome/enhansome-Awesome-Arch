@@ -142,10 +142,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T01:26:40Z",
+            "last_commit": "2026-08-16T08:59:10Z",
             "owner": "Jguer",
             "repo": "yay",
-            "stars": 13678
+            "stars": 13680
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-01-09T07:31:27Z",
             "owner": "Morganamilo",
             "repo": "paru",
-            "stars": 8939
+            "stars": 8940
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-02-05T18:24:38Z",
             "owner": "fosskers",
             "repo": "aura",
-            "stars": 1915
+            "stars": 1916
           }
         },
         {
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:51:41.677Z",
+    "last_updated": "2026-08-16T22:50:20.537Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Arch",
