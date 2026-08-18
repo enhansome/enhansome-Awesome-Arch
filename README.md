@@ -131,7 +131,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Search and download
 
-* [Auracle](https://github.com/falconindy/auracle) ⭐ 258 | 🐛 3 | 🌐 C++ | 📅 2026-08-02 (C++) - A flexible command line client for Arch Linux's User Repository.
+* [Auracle](https://github.com/falconindy/auracle) ⭐ 259 | 🐛 3 | 🌐 C++ | 📅 2026-08-02 (C++) - A flexible command line client for Arch Linux's User Repository.
 * [repoctl](https://github.com/cassava/repoctl) ⭐ 142 | 🐛 13 | 🌐 Go | 📅 2024-03-23 (Go) - Make it easy to manage your local Arch Linux repository.
 * [pbget](https://xyne.archlinux.ca/projects/pbget/) (Python) - Retrieve PKGBUILDs and local source files from Git, ABS and the AUR for makepkg.
 * [yaah](https://projects.metalgamer.eu/yaah) (Bash) - A helper for the Archlinux User Repository (AUR).
@@ -146,10 +146,10 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,683 | 🐛 209 | 🌐 Go | 📅 2026-08-17 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,941 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,688 | 🐛 206 | 🌐 Go | 📅 2026-08-18 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,947 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,916 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-* [pikaur](https://github.com/actionless/pikaur) ⭐ 953 | 🐛 54 | 🌐 Python | 📅 2026-03-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+* [pikaur](https://github.com/actionless/pikaur) ⭐ 954 | 🐛 54 | 🌐 Python | 📅 2026-03-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 824 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
 * [Pacaur](https://github.com/E5ten/pacaur) ⭐ 116 | 🐛 11 | 🌐 Shell | 📅 2021-08-27 (Bash) - An AUR helper that minimizes user interaction.
@@ -168,7 +168,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Maintenance
 
 * [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 280 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
-* [aur-out-of-date](https://github.com/simon04/aur-out-of-date) ⭐ 49 | 🐛 11 | 🌐 Go | 📅 2022-03-21 - Determines out-of-date AUR packages w\.r.t. upstream version.
+* [aur-out-of-date](https://github.com/simon04/aur-out-of-date) ⭐ 50 | 🐛 11 | 🌐 Go | 📅 2022-03-21 - Determines out-of-date AUR packages w\.r.t. upstream version.
 * [pkgoutofdate](https://github.com/anatol/pkgoutofdate) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2021-06-15 - Checks whether Arch packages are out-of-date.
 * [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
 * [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - Alerts you to upstream activity.
@@ -189,7 +189,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 * [JuNest](https://github.com/fsquillace/junest) ⭐ 2,226 | 🐛 63 | 🌐 Shell | 📅 2024-10-12 - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 * [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 132 | 🐛 46 | 🌐 QML | 📅 2026-08-17 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
-* [tarman](https://github.com/Alessandro-Salerno/tarman) ⭐ 40 | 🐛 0 | 🌐 C | 📅 2025-08-10 -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
+* [tarman](https://github.com/Alessandro-Salerno/tarman) ⭐ 41 | 🐛 0 | 🌐 C | 📅 2025-08-10 -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 * [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2026-02-07 - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 * [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 * [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,089 | 🐛 90 | 🌐 MDX | 📅 2026-08-17 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,091 | 🐛 90 | 🌐 MDX | 📅 2026-08-17 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
