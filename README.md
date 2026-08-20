@@ -139,16 +139,16 @@ This section tries to cover all these helpers, divided according to their functi
 ### Search and build
 
 * [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,058 | 🐛 30 | 🌐 Shell | 📅 2026-04-23 (Bash) - Helper tools for the AUR.
-* [RUA](https://github.com/vn971/rua) ⭐ 454 | 🐛 84 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+* [RUA](https://github.com/vn971/rua) ⭐ 455 | 🐛 84 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 * [PKGBUILDer](https://github.com/Kwpolska/pkgbuilder) ⚠️ Archived (Python) - An AUR helper (and library) in Python 3.
 * [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
 * [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,693 | 🐛 206 | 🌐 Go | 📅 2026-08-19 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,691 | 🐛 208 | 🌐 Go | 📅 2026-08-20 (Go) - Yet another Yogurt, an AUR Helper written in Go.
 * [Paru](https://github.com/Morganamilo/paru) ⭐ 8,948 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
-* [Aura](https://github.com/fosskers/aura) ⭐ 1,916 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+* [Aura](https://github.com/fosskers/aura) ⭐ 1,917 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 954 | 🐛 54 | 🌐 Python | 📅 2026-03-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 824 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
@@ -157,7 +157,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Graphical
 
-* [Cylon](https://github.com/gavinlyonsrepo/cylon) ⭐ 203 | 🐛 0 | 🌐 Shell | 📅 2026-04-08 (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+* [Cylon](https://github.com/gavinlyonsrepo/cylon) ⭐ 202 | 🐛 0 | 🌐 Shell | 📅 2026-04-08 (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
 * [Yup](https://github.com/ericm/yup) ⭐ 145 | 🐛 7 | 🌐 Go | 📅 2023-06-14 (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 * [Argon](https://github.com/14mRh4X0r/arch-argon) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2021-09-07 (Python | GTK3) - lightweight GUI package manager for Arch Linux.
 * [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
@@ -167,7 +167,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Maintenance
 
-* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 280 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
+* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 279 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
 * [aur-out-of-date](https://github.com/simon04/aur-out-of-date) ⭐ 50 | 🐛 11 | 🌐 Go | 📅 2022-03-21 - Determines out-of-date AUR packages w\.r.t. upstream version.
 * [pkgoutofdate](https://github.com/anatol/pkgoutofdate) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2021-06-15 - Checks whether Arch packages are out-of-date.
 * [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
@@ -188,7 +188,7 @@ This section tries to cover all these helpers, divided according to their functi
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
 * [JuNest](https://github.com/fsquillace/junest) ⭐ 2,226 | 🐛 63 | 🌐 Shell | 📅 2024-10-12 - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
-* [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 132 | 🐛 46 | 🌐 QML | 📅 2026-08-17 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
+* [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 132 | 🐛 45 | 🌐 QML | 📅 2026-08-20 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 * [tarman](https://github.com/Alessandro-Salerno/tarman) ⭐ 41 | 🐛 0 | 🌐 C | 📅 2025-08-10 -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 * [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2026-02-07 - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 * [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,091 | 🐛 90 | 🌐 MDX | 📅 2026-08-17 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,090 | 🐛 90 | 🌐 MDX | 📅 2026-08-20 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

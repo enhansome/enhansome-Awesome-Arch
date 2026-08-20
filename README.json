@@ -30,7 +30,7 @@
             "last_commit": "2024-05-12T00:43:47Z",
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2580
+            "stars": 2579
           }
         }
       ],
@@ -105,7 +105,7 @@
                 "last_commit": "2026-04-09T08:44:45Z",
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 67382094,
                 "language": "Go",
-                "last_commit": "2026-08-19T02:14:05Z",
+                "last_commit": "2026-08-20T13:39:44Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13693
+                "stars": 13691
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2026-02-05T18:24:38Z",
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1916
+                "stars": 1917
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-04-08T17:20:25Z",
                 "owner": "gavinlyonsrepo",
                 "repo": "cylon",
-                "stars": 203
+                "stars": 202
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2023-12-28T15:19:41Z",
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 280
+                "stars": 279
               }
             },
             {
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 219217453,
             "language": "QML",
-            "last_commit": "2026-08-17T11:58:31Z",
+            "last_commit": "2026-08-20T05:16:15Z",
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 132
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:53:58.168Z",
+    "last_updated": "2026-08-20T22:57:50.158Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
