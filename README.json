@@ -90,7 +90,7 @@
                 "last_commit": "2026-04-23T13:21:14Z",
                 "owner": "aurutils",
                 "repo": "aurutils",
-                "stars": 1058
+                "stars": 1059
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 67382094,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:39:44Z",
+                "last_commit": "2026-08-21T00:53:34Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13691
+                "stars": 13693
               }
             },
             {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-20T05:16:15Z",
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:57:50.158Z",
+    "last_updated": "2026-08-21T22:53:50.738Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
