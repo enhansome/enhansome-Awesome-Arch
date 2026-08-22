@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 67382094,
                 "language": "Go",
-                "last_commit": "2026-08-21T00:53:34Z",
+                "last_commit": "2026-08-22T11:05:59Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13693
+                "stars": 13696
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-01-09T07:31:27Z",
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8948
+                "stars": 8950
               }
             },
             {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:53:50.738Z",
+    "last_updated": "2026-08-22T22:51:59.918Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
