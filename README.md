@@ -147,7 +147,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Pacman wrappers
 
 * [Yay](https://github.com/Jguer/yay) ⭐ 13,701 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,953 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,954 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,917 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 954 | 🐛 54 | 🌐 Python | 📅 2026-03-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 824 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
@@ -167,7 +167,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Maintenance
 
-* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 279 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
+* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 280 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
 * [aur-out-of-date](https://github.com/simon04/aur-out-of-date) ⭐ 50 | 🐛 11 | 🌐 Go | 📅 2022-03-21 - Determines out-of-date AUR packages w\.r.t. upstream version.
 * [pkgoutofdate](https://github.com/anatol/pkgoutofdate) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2021-06-15 - Checks whether Arch packages are out-of-date.
 * [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.

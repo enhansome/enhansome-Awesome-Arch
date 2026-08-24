@@ -157,7 +157,7 @@
                 "last_commit": "2026-01-09T07:31:27Z",
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8953
+                "stars": 8954
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2023-12-28T15:19:41Z",
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 279
+                "stars": 280
               }
             },
             {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:40.408Z",
+    "last_updated": "2026-08-24T22:55:46.318Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
