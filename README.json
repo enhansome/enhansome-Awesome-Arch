@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-22T11:05:59Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13700
+                "stars": 13701
               }
             },
             {
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 219217453,
             "language": "QML",
-            "last_commit": "2026-08-23T06:40:01Z",
+            "last_commit": "2026-08-24T11:53:58Z",
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 133
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:51:21.446Z",
+    "last_updated": "2026-08-24T14:23:40.408Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
