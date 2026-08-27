@@ -146,8 +146,8 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,706 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,958 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,711 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,960 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,917 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 954 | 🐛 54 | 🌐 Python | 📅 2026-03-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 824 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
@@ -187,7 +187,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
-* [JuNest](https://github.com/fsquillace/junest) ⭐ 2,226 | 🐛 63 | 🌐 Shell | 📅 2024-10-12 - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+* [JuNest](https://github.com/fsquillace/junest) ⭐ 2,227 | 🐛 63 | 🌐 Shell | 📅 2024-10-12 - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 * [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 133 | 🐛 46 | 🌐 QML | 📅 2026-08-25 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 * [tarman](https://github.com/Alessandro-Salerno/tarman) ⭐ 41 | 🐛 0 | 🌐 C | 📅 2025-08-10 -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 * [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2026-02-07 - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 90 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

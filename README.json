@@ -30,7 +30,7 @@
             "last_commit": "2024-05-12T00:43:47Z",
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2579
+            "stars": 2580
           }
         }
       ],
@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-22T11:05:59Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13706
+                "stars": 13711
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-01-09T07:31:27Z",
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8958
+                "stars": 8960
               }
             },
             {
@@ -429,7 +429,7 @@
             "last_commit": "2024-10-12T09:56:57Z",
             "owner": "fsquillace",
             "repo": "junest",
-            "stars": 2226
+            "stars": 2227
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:57:57.116Z",
+    "last_updated": "2026-08-27T03:31:11.942Z",
     "original_repository": "PandaFoss/Awesome-Arch",
     "original_repository_id": 193599853,
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
