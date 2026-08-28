@@ -16,7 +16,8 @@
             "owner": "helmuthdu",
             "repo": "aui",
             "stars": 2819
-          }
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-05-12T00:43:47Z",
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2580
-          }
+            "stars": 2579
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         }
       ],
       "title": "Arch Linux Installers"
@@ -54,7 +56,8 @@
                 "owner": "falconindy",
                 "repo": "auracle",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "cassava",
                 "repo": "repoctl",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -91,7 +95,8 @@
                 "owner": "aurutils",
                 "repo": "aurutils",
                 "stars": 1060
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "vn971",
                 "repo": "rua",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "Kwpolska",
                 "repo": "pkgbuilder",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -142,8 +149,9 @@
                 "last_commit": "2026-08-22T11:05:59Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13712
-              }
+                "stars": 13711
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -157,8 +165,9 @@
                 "last_commit": "2026-01-09T07:31:27Z",
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8960
-              }
+                "stars": 8961
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "fosskers",
                 "repo": "aura",
                 "stars": 1917
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 954
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "trizen",
                 "repo": "trizen",
                 "stars": 824
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "kitsunyan",
                 "repo": "pakku",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "E5ten",
                 "repo": "pacaur",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "crystal-linux",
                 "repo": "amethyst",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -270,7 +285,8 @@
                 "owner": "gavinlyonsrepo",
                 "repo": "cylon",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "ericm",
                 "repo": "yup",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "14mRh4X0r",
                 "repo": "arch-argon",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -322,7 +340,8 @@
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "simon04",
                 "repo": "aur-out-of-date",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "anatol",
                 "repo": "pkgoutofdate",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -374,7 +395,8 @@
                 "owner": "archlinuxfr",
                 "repo": "package-query",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -389,7 +411,8 @@
                 "owner": "GermainZ",
                 "repo": "aur-talk",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "jadenPete",
                 "repo": "aurvote-utils",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:15:55.997Z"
             }
           ],
           "description": null,
@@ -430,7 +454,8 @@
             "owner": "fsquillace",
             "repo": "junest",
             "stars": 2227
-          }
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         },
         {
           "node_type": "item",
@@ -441,11 +466,12 @@
             "archived": false,
             "id": 219217453,
             "language": "QML",
-            "last_commit": "2026-08-27T06:56:17Z",
+            "last_commit": "2026-08-28T05:59:33Z",
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         },
         {
           "node_type": "item",
@@ -460,7 +486,8 @@
             "owner": "Alessandro-Salerno",
             "repo": "tarman",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         },
         {
           "node_type": "item",
@@ -475,14 +502,15 @@
             "owner": "ptr1337",
             "repo": "makepkg-optimize",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:15:55.997Z"
         }
       ],
       "title": "Other projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:42.621Z",
+    "last_updated": "2026-08-28T06:15:55.997Z",
     "original_repository_info": {
       "archived": false,
       "id": 193599853,
