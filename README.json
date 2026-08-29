@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archlinux Ultimate Install",
+            "homepage": null,
             "id": 3149652,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-21T07:48:24Z",
+            "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2819
+            "stars": 2819,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Arch Linux Fast Installer : tutorial installer",
+            "homepage": null,
             "id": 39274072,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-12T00:43:47Z",
+            "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2579
+            "stars": 2579,
+            "topics": [
+              "arch-linux",
+              "arch-linux-installation",
+              "archlinux",
+              "install",
+              "installation",
+              "installer",
+              "wizard"
+            ]
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         }
@@ -50,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible command line client for Arch Linux's User Repository",
+                "homepage": null,
                 "id": 95398421,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-02T00:21:36Z",
+                "open_issues": 3,
                 "owner": "falconindy",
                 "repo": "auracle",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -66,12 +89,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make it easy to manage your local Arch Linux repository.",
+                "homepage": null,
                 "id": 20039498,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-23T13:05:12Z",
+                "open_issues": 13,
                 "owner": "cassava",
                 "repo": "repoctl",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "arch-linux",
+                  "aur-packages",
+                  "pacman",
+                  "repository"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -89,12 +122,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper tools for the AUR.",
+                "homepage": null,
                 "id": 52808873,
                 "language": "Shell",
+                "license": "ISC",
                 "last_commit": "2026-04-23T13:21:14Z",
+                "open_issues": 30,
                 "owner": "aurutils",
                 "repo": "aurutils",
-                "stars": 1060
+                "stars": 1060,
+                "topics": [
+                  "archlinux",
+                  "aur",
+                  "aur-helper",
+                  "aur-packages",
+                  "aurutils",
+                  "pacman",
+                  "repository-utilities"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -105,12 +151,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build tool for Arch Linux providing control, review and jailed build options",
+                "homepage": null,
                 "id": 154670483,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-09T08:44:45Z",
+                "open_issues": 84,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 455
+                "stars": 456,
+                "topics": [
+                  "arch-user-repository",
+                  "archlinux",
+                  "aur",
+                  "namespaces"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -121,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An AUR helper (and library) in Python 3.",
+                "homepage": "http://pkgbuilder.rtfd.org/",
                 "id": 2294792,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-08T17:52:21Z",
+                "open_issues": 0,
                 "owner": "Kwpolska",
                 "repo": "pkgbuilder",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -144,12 +205,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another Yogurt - An AUR Helper written in Go",
+                "homepage": "https://jguer.github.io/yay/",
                 "id": 67382094,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T11:05:59Z",
+                "open_issues": 210,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13711
+                "stars": 13712,
+                "topics": [
+                  "archlinux",
+                  "aur",
+                  "aur-completions",
+                  "aur-helper",
+                  "aur-packages",
+                  "pacaur",
+                  "pacman",
+                  "paru",
+                  "pkgbuild",
+                  "yaourt",
+                  "yay"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -160,12 +238,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature packed AUR helper",
+                "homepage": null,
                 "id": 285393031,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-09T07:31:27Z",
+                "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8961
+                "stars": 8964,
+                "topics": [
+                  "arch",
+                  "archlinux",
+                  "aur-helper",
+                  "hacktoberfest",
+                  "pacman",
+                  "paru",
+                  "pkgbuild",
+                  "yaourt",
+                  "yay"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -176,12 +269,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multilingual package manager for Arch Linux and the AUR.",
+                "homepage": "https://fosskers.github.io/aura/",
                 "id": 4323288,
                 "language": "Haskell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-05T18:24:38Z",
+                "open_issues": 64,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1917
+                "stars": 1917,
+                "topics": [
+                  "arch-linux",
+                  "aura",
+                  "package-manager",
+                  "pacman",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -192,12 +296,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.",
+                "homepage": null,
                 "id": 119318942,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-07T16:55:36Z",
+                "open_issues": 54,
                 "owner": "actionless",
                 "repo": "pikaur",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "arch-linux",
+                  "aur",
+                  "aur-helper"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -208,12 +321,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight AUR Package Manager",
+                "homepage": "https://github.com/trizen/trizen/blob/master/TRIZEN.md",
                 "id": 1380032,
                 "language": "Perl",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-11T02:04:37Z",
+                "open_issues": 56,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 824
+                "stars": 824,
+                "topics": [
+                  "arch",
+                  "arch-linux",
+                  "archlinux",
+                  "aur",
+                  "aur-helper",
+                  "aur-packages",
+                  "package-manager",
+                  "pacman",
+                  "perl",
+                  "trizen"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -224,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pacman wrapper with AUR support",
+                "homepage": null,
                 "id": 124698793,
                 "language": "Nim",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-12T09:48:10Z",
+                "open_issues": 23,
                 "owner": "kitsunyan",
                 "repo": "pakku",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -240,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AUR helper that minimizes user interaction",
+                "homepage": "https://bbs.archlinux.org/viewtopic.php?pid=1755144#p1755144",
                 "id": 152746054,
                 "language": "Shell",
+                "license": "ISC",
                 "last_commit": "2021-08-27T23:53:51Z",
+                "open_issues": 11,
                 "owner": "E5ten",
                 "repo": "pacaur",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -256,12 +395,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Crystal Linux is now hosted at https://gitlab.com/crystal-linux",
+                "homepage": "https://getcryst.al",
                 "id": 498336622,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-25T01:42:01Z",
+                "open_issues": 10,
                 "owner": "crystal-linux",
                 "repo": "amethyst",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "arch-linux",
+                  "archlinux",
+                  "crystal",
+                  "hacktoberfest",
+                  "package",
+                  "package-management",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -279,12 +431,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Terminal user interface for maintaining an Arch Linux distribution.",
+                "homepage": "https://gavinlyonsrepo.github.io/",
                 "id": 67719543,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T17:20:25Z",
+                "open_issues": 0,
                 "owner": "gavinlyonsrepo",
                 "repo": "cylon",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "arch",
+                  "arch-linux",
+                  "arch-linux-distro",
+                  "archlinux",
+                  "aur",
+                  "aur-helper",
+                  "aur-helpers",
+                  "bash",
+                  "bleachbit",
+                  "cylon",
+                  "endeavouros",
+                  "linux",
+                  "linux-distribution",
+                  "maintenance",
+                  "manjaro",
+                  "pacaur",
+                  "pacman",
+                  "rmlint",
+                  "shell",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -295,12 +473,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arch Linux AUR Helper with ncurses functionality and better searching and sorting ",
+                "homepage": "https://aur.archlinux.org/packages/yup",
                 "id": 185051569,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-14T18:37:58Z",
+                "open_issues": 7,
                 "owner": "ericm",
                 "repo": "yup",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "arch-linux",
+                  "archlinux",
+                  "aur",
+                  "aur-completions",
+                  "aur-helper",
+                  "aur-packages",
+                  "hacktoberfest",
+                  "pacaur",
+                  "pacman",
+                  "pkgbuild",
+                  "terminal",
+                  "trizen",
+                  "tui",
+                  "yaourt",
+                  "yay"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -311,12 +510,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lightweight GUI package manager + update notifier (with full AUR support) for Arch Linux, originally by Bob Henry Pirkle",
+                "homepage": null,
                 "id": 47501191,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-07T13:57:21Z",
+                "open_issues": 1,
                 "owner": "14mRh4X0r",
                 "repo": "arch-argon",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "arch-linux",
+                  "aur",
+                  "gtk3"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -334,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PKGBUILD management framework for the Arch User Repository",
+                "homepage": null,
                 "id": 138619640,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-28T15:19:41Z",
+                "open_issues": 17,
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 280
+                "stars": 280,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -350,12 +563,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Determines out-of-date AUR packages w.r.t. upstream version",
+                "homepage": null,
                 "id": 118325505,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-21T08:24:09Z",
+                "open_issues": 11,
                 "owner": "simon04",
                 "repo": "aur-out-of-date",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "archlinux",
+                  "aur",
+                  "packaging"
+                ]
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -366,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checks ArchLinux packages repository for upstream updates",
+                "homepage": null,
                 "id": 10002810,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-15T16:00:34Z",
+                "open_issues": 1,
                 "owner": "anatol",
                 "repo": "pkgoutofdate",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -389,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query alpm database and AUR",
+                "homepage": null,
                 "id": 15936922,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-07-31T17:04:13Z",
+                "open_issues": 9,
                 "owner": "archlinuxfr",
                 "repo": "package-query",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -405,12 +637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script to fetch and display AUR package comments",
+                "homepage": null,
                 "id": 153829327,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2018-10-29T22:45:51Z",
+                "open_issues": 2,
                 "owner": "GermainZ",
                 "repo": "aur-talk",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             },
@@ -421,12 +658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of utilities for managing AUR votes",
+                "homepage": null,
                 "id": 178522700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-01T23:08:49Z",
+                "open_issues": 4,
                 "owner": "jadenPete",
                 "repo": "aurvote-utils",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
             }
@@ -448,12 +690,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.",
+            "homepage": null,
             "id": 25396290,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-12T09:56:57Z",
+            "open_issues": 64,
             "owner": "fsquillace",
             "repo": "junest",
-            "stars": 2227
+            "stars": 2226,
+            "topics": [
+              "arch-linux",
+              "archlinux",
+              "linux",
+              "linux-distros",
+              "linux-os",
+              "qemu",
+              "root-privileges",
+              "sandbox",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         },
@@ -464,12 +721,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticulously shapes its nest, HorneroConfig empowers you to craft a digital environment that's robust, uniquely yours, and beautifully organized!",
+            "homepage": "https://ulises-jeremias.github.io/dotfiles",
             "id": 219217453,
             "language": "QML",
-            "last_commit": "2026-08-28T05:59:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:34:01Z",
+            "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "alacritty",
+              "alacritty-config",
+              "alacritty-theme",
+              "arch-linux",
+              "archlinux",
+              "chezmoi",
+              "chezmoi-template",
+              "debian",
+              "dotfiles",
+              "dotfiles-generator",
+              "dotfiles-linux",
+              "git",
+              "hacktoberfest",
+              "linux",
+              "p10k",
+              "polybar",
+              "rofi-scripts",
+              "tmux",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         },
@@ -480,12 +762,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)",
+            "homepage": null,
             "id": 876579187,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-10T21:04:16Z",
+            "open_issues": 0,
             "owner": "Alessandro-Salerno",
             "repo": "tarman",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "archlinux",
+              "arm64",
+              "c",
+              "cli",
+              "cross-platform",
+              "extensible",
+              "free-software",
+              "gpl-3-or-later",
+              "hobby-os",
+              "linux",
+              "macos",
+              "package-manager",
+              "pacman",
+              "portable",
+              "posix",
+              "simple",
+              "targz",
+              "unix",
+              "windows",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         },
@@ -496,12 +804,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some useful additons for makepkg for archlinux",
+            "homepage": null,
             "id": 442918086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-02-07T20:15:20Z",
+            "open_issues": 1,
             "owner": "ptr1337",
             "repo": "makepkg-optimize",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aocc",
+              "archlinux",
+              "bolt",
+              "clang",
+              "gcc",
+              "makepkg",
+              "optimization",
+              "pgo"
+            ]
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
         }
@@ -510,15 +832,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:15:55.997Z",
+    "last_updated": "2026-08-29T03:50:07.054Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A complete list of Arch-based projects",
+      "homepage": "https://awesome-arch.netlify.app",
       "id": 193599853,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-11T04:57:29Z",
+      "open_issues": 3,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 588
+      "stars": 588,
+      "topics": [
+        "arch-linux",
+        "awesome",
+        "awesome-list",
+        "list"
+      ]
     },
     "original_repository_sha": "ed749c354881af6727101aa1c650215fcff9b8c4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Arch",
