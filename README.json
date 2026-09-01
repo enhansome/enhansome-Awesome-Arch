@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2819,
+            "stars": 2817,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2579,
+            "stars": 2578,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -211,10 +211,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-22T11:05:59Z",
-                "open_issues": 210,
+                "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13717,
+                "stars": 13719,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8966,
+                "stars": 8972,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -305,7 +305,7 @@
                 "open_issues": 53,
                 "owner": "actionless",
                 "repo": "pikaur",
-                "stars": 955,
+                "stars": 954,
                 "topics": [
                   "arch-linux",
                   "aur",
@@ -330,7 +330,7 @@
                 "open_issues": 56,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 825,
+                "stars": 821,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -726,7 +726,7 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:34:01Z",
+            "last_commit": "2026-08-31T21:07:46Z",
             "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:47:43.271Z",
+    "last_updated": "2026-09-01T01:22:39.562Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
