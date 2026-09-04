@@ -214,7 +214,7 @@
                 "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13724,
+                "stars": 13729,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8969,
+                "stars": 8970,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -301,8 +301,8 @@
                 "id": 119318942,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T22:36:39Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-03T15:52:25Z",
+                "open_issues": 51,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 954,
@@ -726,11 +726,11 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-01T05:45:58Z",
+            "last_commit": "2026-09-03T15:52:03Z",
             "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "alacritty",
               "alacritty-config",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:33:58.200Z",
+    "last_updated": "2026-09-04T00:18:30.223Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
