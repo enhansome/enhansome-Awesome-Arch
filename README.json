@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2578,
+            "stars": 2577,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -74,7 +74,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-02T00:21:36Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "falconindy",
                 "repo": "auracle",
                 "stars": 259,
@@ -214,7 +214,7 @@
                 "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13729,
+                "stars": 13731,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -278,7 +278,7 @@
                 "open_issues": 64,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1916,
+                "stars": 1915,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -305,7 +305,7 @@
                 "open_issues": 51,
                 "owner": "actionless",
                 "repo": "pikaur",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "arch-linux",
                   "aur",
@@ -330,7 +330,7 @@
                 "open_issues": 56,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:18:30.223Z",
+    "last_updated": "2026-09-05T00:19:54.435Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
