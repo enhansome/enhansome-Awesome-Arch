@@ -73,8 +73,8 @@
                 "id": 95398421,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-02T00:21:36Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-05T10:10:50Z",
+                "open_issues": 3,
                 "owner": "falconindy",
                 "repo": "auracle",
                 "stars": 259,
@@ -214,7 +214,7 @@
                 "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13731,
+                "stars": 13735,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8970,
+                "stars": 8968,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -301,8 +301,8 @@
                 "id": 119318942,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T15:52:25Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-05T23:04:43Z",
+                "open_issues": 50,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 955,
@@ -330,7 +330,7 @@
                 "open_issues": 56,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 820,
+                "stars": 821,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:19:54.435Z",
+    "last_updated": "2026-09-06T00:10:53.647Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
