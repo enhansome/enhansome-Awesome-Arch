@@ -214,7 +214,7 @@
                 "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13736,
+                "stars": 13742,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8971,
+                "stars": 8973,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -301,7 +301,7 @@
                 "id": 119318942,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T02:04:39Z",
+                "last_commit": "2026-09-07T14:06:35Z",
                 "open_issues": 50,
                 "owner": "actionless",
                 "repo": "pikaur",
@@ -551,7 +551,7 @@
                 "open_issues": 17,
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -726,7 +726,7 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:52:03Z",
+            "last_commit": "2026-09-07T04:05:25Z",
             "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -813,7 +813,7 @@
             "open_issues": 1,
             "owner": "ptr1337",
             "repo": "makepkg-optimize",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "aocc",
               "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:16:57.146Z",
+    "last_updated": "2026-09-08T00:38:37.753Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
