@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2817,
+            "stars": 2816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -131,7 +131,7 @@
                 "open_issues": 30,
                 "owner": "aurutils",
                 "repo": "aurutils",
-                "stars": 1060,
+                "stars": 1059,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -214,7 +214,7 @@
                 "open_issues": 209,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13742,
+                "stars": 13744,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 204,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8973,
+                "stars": 8977,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 65,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1915,
+                "stars": 1914,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -305,7 +305,7 @@
                 "open_issues": 50,
                 "owner": "actionless",
                 "repo": "pikaur",
-                "stars": 955,
+                "stars": 956,
                 "topics": [
                   "arch-linux",
                   "aur",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:38:37.753Z",
+    "last_updated": "2026-09-09T00:29:34.180Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 590,
+      "stars": 591,
       "topics": [
         "arch-linux",
         "awesome",

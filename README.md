@@ -112,7 +112,7 @@ Simplicity is one of the great features of Arch Linux, which has led the communi
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-* [aui](https://github.com/helmuthdu/aui) ⭐ 2,817 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
+* [aui](https://github.com/helmuthdu/aui) ⭐ 2,816 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 * [Archfi](https://github.com/MatMoul/archfi) ⚠️ Archived - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## AUR Helpers
@@ -138,7 +138,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Search and build
 
-* [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,060 | 🐛 30 | 🌐 Shell | 📅 2026-04-23 (Bash) - Helper tools for the AUR.
+* [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,059 | 🐛 30 | 🌐 Shell | 📅 2026-04-23 (Bash) - Helper tools for the AUR.
 * [RUA](https://github.com/vn971/rua) ⭐ 456 | 🐛 84 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 * [PKGBUILDer](https://github.com/Kwpolska/pkgbuilder) ⚠️ Archived (Python) - An AUR helper (and library) in Python 3.
 * [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
@@ -146,10 +146,10 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,742 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,973 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
-* [Aura](https://github.com/fosskers/aura) ⭐ 1,915 | 🐛 65 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-* [pikaur](https://github.com/actionless/pikaur) ⭐ 955 | 🐛 50 | 🌐 Python | 📅 2026-09-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,744 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,977 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Aura](https://github.com/fosskers/aura) ⭐ 1,914 | 🐛 65 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+* [pikaur](https://github.com/actionless/pikaur) ⭐ 956 | 🐛 50 | 🌐 Python | 📅 2026-09-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
 * [Pacaur](https://github.com/E5ten/pacaur) ⭐ 116 | 🐛 11 | 🌐 Shell | 📅 2021-08-27 (Bash) - An AUR helper that minimizes user interaction.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,096 | 🐛 89 | 🌐 MDX | 📅 2026-09-03 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,098 | 🐛 90 | 🌐 MDX | 📅 2026-09-03 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
