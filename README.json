@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2816,
+            "stars": 2815,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -211,7 +211,7 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-22T11:05:59Z",
-                "open_issues": 209,
+                "open_issues": 210,
                 "owner": "Jguer",
                 "repo": "yay",
                 "stars": 13744,
@@ -551,7 +551,7 @@
                 "open_issues": 17,
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:29:34.180Z",
+    "last_updated": "2026-09-10T00:30:42.833Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 591,
+      "stars": 592,
       "topics": [
         "arch-linux",
         "awesome",

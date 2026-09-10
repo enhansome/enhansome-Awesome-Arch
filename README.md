@@ -112,7 +112,7 @@ Simplicity is one of the great features of Arch Linux, which has led the communi
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-* [aui](https://github.com/helmuthdu/aui) ⭐ 2,816 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
+* [aui](https://github.com/helmuthdu/aui) ⭐ 2,815 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 * [Archfi](https://github.com/MatMoul/archfi) ⚠️ Archived - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## AUR Helpers
@@ -146,7 +146,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,744 | 🐛 209 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,744 | 🐛 210 | 🌐 Go | 📅 2026-08-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
 * [Paru](https://github.com/Morganamilo/paru) ⭐ 8,977 | 🐛 204 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,914 | 🐛 65 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 956 | 🐛 50 | 🌐 Python | 📅 2026-09-07 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
@@ -167,7 +167,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Maintenance
 
-* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 281 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
+* [aurpublish](https://github.com/eli-schwartz/aurpublish) ⭐ 282 | 🐛 17 | 🌐 Shell | 📅 2023-12-28 - PKGBUILD management framework for the Arch User Repository.
 * [aur-out-of-date](https://github.com/simon04/aur-out-of-date) ⭐ 50 | 🐛 11 | 🌐 Go | 📅 2022-03-21 - Determines out-of-date AUR packages w\.r.t. upstream version.
 * [pkgoutofdate](https://github.com/anatol/pkgoutofdate) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2021-06-15 - Checks whether Arch packages are out-of-date.
 * [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
