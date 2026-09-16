@@ -160,7 +160,7 @@
                 "open_issues": 84,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -275,7 +275,7 @@
                 "language": "Haskell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-02-05T18:24:38Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "fosskers",
                 "repo": "aura",
                 "stars": 1915,
@@ -551,7 +551,7 @@
                 "open_issues": 17,
                 "owner": "eli-schwartz",
                 "repo": "aurpublish",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-14T11:55:57Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-15T03:39:42Z",
+            "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 134,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:51:17.436Z",
+    "last_updated": "2026-09-16T00:44:05.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
