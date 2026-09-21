@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2577,
+            "stars": 2576,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -160,7 +160,7 @@
                 "open_issues": 84,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 457,
+                "stars": 458,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -214,7 +214,7 @@
                 "open_issues": 211,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13755,
+                "stars": 13756,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -244,10 +244,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-09T07:31:27Z",
-                "open_issues": 204,
+                "open_issues": 205,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8989,
+                "stars": 8991,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -699,7 +699,7 @@
             "open_issues": 64,
             "owner": "fsquillace",
             "repo": "junest",
-            "stars": 2226,
+            "stars": 2227,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-20T00:18:07Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-20T04:44:47Z",
+            "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 134,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:19:03.199Z",
+    "last_updated": "2026-09-21T00:27:05.593Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 592,
+      "stars": 593,
       "topics": [
         "arch-linux",
         "awesome",
