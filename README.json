@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T09:36:53Z",
+                "last_commit": "2026-09-21T16:13:29Z",
                 "open_issues": 211,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13756,
+                "stars": 13758,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 205,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8991,
+                "stars": 8990,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-20T04:44:47Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-21T11:56:54Z",
+            "open_issues": 24,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 134,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:27:05.593Z",
+    "last_updated": "2026-09-22T01:04:27.253Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 593,
+      "stars": 594,
       "topics": [
         "arch-linux",
         "awesome",
