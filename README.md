@@ -112,7 +112,7 @@ Simplicity is one of the great features of Arch Linux, which has led the communi
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-* [aui](https://github.com/helmuthdu/aui) ⭐ 2,815 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
+* [aui](https://github.com/helmuthdu/aui) ⭐ 2,816 | 🐛 23 | 🌐 Shell | 📅 2022-04-21 - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 * [Archfi](https://github.com/MatMoul/archfi) ⚠️ Archived - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## AUR Helpers
@@ -146,8 +146,8 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,760 | 🐛 212 | 🌐 Go | 📅 2026-09-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 8,997 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,757 | 🐛 214 | 🌐 Go | 📅 2026-09-22 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,000 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,915 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 957 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
@@ -157,7 +157,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Graphical
 
-* [Cylon](https://github.com/gavinlyonsrepo/cylon) ⭐ 202 | 🐛 1 | 🌐 Shell | 📅 2026-04-08 (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+* [Cylon](https://github.com/gavinlyonsrepo/cylon) ⭐ 202 | 🐛 1 | 🌐 Shell | 📅 2026-09-24 (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
 * [Yup](https://github.com/ericm/yup) ⭐ 145 | 🐛 7 | 🌐 Go | 📅 2023-06-14 (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 * [Argon](https://github.com/14mRh4X0r/arch-argon) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2021-09-07 (Python | GTK3) - lightweight GUI package manager for Arch Linux.
 * [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,102 | 🐛 91 | 🌐 MDX | 📅 2026-09-16 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,103 | 🐛 90 | 🌐 MDX | 📅 2026-09-24 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
