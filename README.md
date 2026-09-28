@@ -147,9 +147,9 @@ This section tries to cover all these helpers, divided according to their functi
 ### Pacman wrappers
 
 * [Yay](https://github.com/Jguer/yay) ⭐ 13,761 | 🐛 202 | 🌐 Go | 📅 2026-09-26 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,003 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,001 | 🐛 206 | 🌐 Rust | 📅 2026-01-09 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,916 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-* [pikaur](https://github.com/actionless/pikaur) ⭐ 957 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+* [pikaur](https://github.com/actionless/pikaur) ⭐ 958 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
 * [Pacaur](https://github.com/E5ten/pacaur) ⭐ 116 | 🐛 11 | 🌐 Shell | 📅 2021-08-27 (Bash) - An AUR helper that minimizes user interaction.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,105 | 🐛 90 | 🌐 MDX | 📅 2026-09-24 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,105 | 🐛 107 | 🌐 MDX | 📅 2026-09-24 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
