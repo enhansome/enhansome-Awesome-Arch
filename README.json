@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2816,
+            "stars": 2815,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -247,7 +247,7 @@
                 "open_issues": 206,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 8997,
+                "stars": 9001,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 64,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1916,
+                "stars": 1917,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -724,9 +724,9 @@
             "description": "HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticulously shapes its nest, HorneroConfig empowers you to craft a digital environment that's robust, uniquely yours, and beautifully organized!",
             "homepage": "https://ulises-jeremias.github.io/dotfiles",
             "id": 219217453,
-            "language": "QML",
+            "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-29T06:07:37Z",
+            "last_commit": "2026-09-30T03:30:50Z",
             "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:28:30.192Z",
+    "last_updated": "2026-10-01T01:28:05.366Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
