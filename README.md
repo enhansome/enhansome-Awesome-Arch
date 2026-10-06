@@ -147,7 +147,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Pacman wrappers
 
 * [Yay](https://github.com/Jguer/yay) ⭐ 13,775 | 🐛 205 | 🌐 Go | 📅 2026-09-26 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,011 | 🐛 208 | 🌐 Rust | 📅 2026-10-05 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,010 | 🐛 208 | 🌐 Rust | 📅 2026-10-05 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,918 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 959 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
@@ -176,7 +176,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Other
 
 * [package-query](https://github.com/archlinuxfr/package-query) ⭐ 73 | 🐛 9 | 🌐 C | 📅 2022-07-31 - Tool for querying `libalpm` and the AUR.
-* [aur-talk](https://github.com/GermainZ/aur-talk) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2018-10-29 - A script to fetch and display AUR package comments.
+* [aur-talk](https://github.com/GermainZ/aur-talk) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2018-10-29 - A script to fetch and display AUR package comments.
 * [aurvote-utils](https://github.com/jadenPete/aurvote-utils) ⭐ 11 | 🐛 4 | 🌐 Python | 📅 2019-04-01 - A set of utilities for managing AUR votes.
 * [arch-audit](https://gitlab.com/ilpianista/arch-audit) - A utility like pkg-audit based on Arch Security Team data.
 * [haskell-aur](https://hackage.haskell.org/package/aur) - Haskell library for accessing Aurweb RPC interface.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,109 | 🐛 87 | 🌐 MDX | 📅 2026-10-01 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,110 | 🐛 86 | 🌐 MDX | 📅 2026-10-01 specification. Contributions of any kind welcome!
 
 ## License
 
