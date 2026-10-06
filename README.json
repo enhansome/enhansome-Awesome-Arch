@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2815,
+            "stars": 2816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -214,7 +214,7 @@
                 "open_issues": 205,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13773,
+                "stars": 13775,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -243,11 +243,11 @@
                 "id": 285393031,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-01-09T07:31:27Z",
+                "last_commit": "2026-10-05T13:24:17Z",
                 "open_issues": 208,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9009,
+                "stars": 9011,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -726,7 +726,7 @@
             "id": 219217453,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-04T23:25:35Z",
+            "last_commit": "2026-10-05T12:09:28Z",
             "open_issues": 23,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:11:36.046Z",
+    "last_updated": "2026-10-06T02:27:23.445Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
