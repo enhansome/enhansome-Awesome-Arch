@@ -146,7 +146,7 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,779 | 🐛 207 | 🌐 Go | 📅 2026-09-26 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,779 | 🐛 209 | 🌐 Go | 📅 2026-10-08 (Go) - Yet another Yogurt, an AUR Helper written in Go.
 * [Paru](https://github.com/Morganamilo/paru) ⭐ 9,016 | 🐛 207 | 🌐 Rust | 📅 2026-10-05 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,918 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 959 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,109 | 🐛 86 | 🌐 MDX | 📅 2026-10-01 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,110 | 🐛 86 | 🌐 MDX | 📅 2026-10-08 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
