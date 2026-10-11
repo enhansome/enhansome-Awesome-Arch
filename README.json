@@ -131,7 +131,7 @@
                 "open_issues": 30,
                 "owner": "aurutils",
                 "repo": "aurutils",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -244,10 +244,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T13:24:17Z",
-                "open_issues": 207,
+                "open_issues": 208,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9021,
+                "stars": 9022,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:53:27.401Z",
+    "last_updated": "2026-10-11T01:11:44.238Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
