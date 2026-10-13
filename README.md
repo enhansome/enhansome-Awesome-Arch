@@ -138,8 +138,8 @@ This section tries to cover all these helpers, divided according to their functi
 
 ### Search and build
 
-* [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,062 | 🐛 30 | 🌐 Shell | 📅 2026-04-23 (Bash) - Helper tools for the AUR.
-* [RUA](https://github.com/vn971/rua) ⭐ 459 | 🐛 84 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+* [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,063 | 🐛 30 | 🌐 Shell | 📅 2026-04-23 (Bash) - Helper tools for the AUR.
+* [RUA](https://github.com/vn971/rua) ⭐ 458 | 🐛 84 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 * [PKGBUILDer](https://github.com/Kwpolska/pkgbuilder) ⚠️ Archived (Python) - An AUR helper (and library) in Python 3.
 * [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
 * [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
@@ -147,9 +147,9 @@ This section tries to cover all these helpers, divided according to their functi
 ### Pacman wrappers
 
 * [Yay](https://github.com/Jguer/yay) ⭐ 13,786 | 🐛 209 | 🌐 Go | 📅 2026-10-08 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,026 | 🐛 208 | 🌐 Rust | 📅 2026-10-05 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
-* [Aura](https://github.com/fosskers/aura) ⭐ 1,918 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-* [pikaur](https://github.com/actionless/pikaur) ⭐ 959 | 🐛 49 | 🌐 Python | 📅 2026-09-10 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,028 | 🐛 208 | 🌐 Rust | 📅 2026-10-05 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Aura](https://github.com/fosskers/aura) ⭐ 1,917 | 🐛 64 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+* [pikaur](https://github.com/actionless/pikaur) ⭐ 960 | 🐛 49 | 🌐 Python | 📅 2026-10-12 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 56 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
 * [Pacaur](https://github.com/E5ten/pacaur) ⭐ 116 | 🐛 11 | 🌐 Shell | 📅 2021-08-27 (Bash) - An AUR helper that minimizes user interaction.
@@ -188,7 +188,7 @@ This section tries to cover all these helpers, divided according to their functi
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
 * [JuNest](https://github.com/fsquillace/junest) ⭐ 2,230 | 🐛 65 | 🌐 Shell | 📅 2024-10-12 - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
-* [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 135 | 🐛 26 | 🌐 Shell | 📅 2026-10-11 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
+* [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) ⭐ 135 | 🐛 19 | 🌐 Shell | 📅 2026-10-13 - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 * [tarman](https://github.com/Alessandro-Salerno/tarman) ⭐ 43 | 🐛 0 | 🌐 C | 📅 2025-08-10 -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 * [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) ⭐ 25 | 🐛 1 | 🌐 Shell | 📅 2026-02-07 - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 * [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
