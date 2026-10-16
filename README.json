@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2817,
+            "stars": 2816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2573,
+            "stars": 2572,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -247,7 +247,7 @@
                 "open_issues": 208,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9027,
+                "stars": 9029,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -305,7 +305,7 @@
                 "open_issues": 49,
                 "owner": "actionless",
                 "repo": "pikaur",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "arch-linux",
                   "aur",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:46:58.666Z",
+    "last_updated": "2026-10-16T00:40:08.960Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
