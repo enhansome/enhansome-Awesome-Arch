@@ -160,7 +160,7 @@
                 "open_issues": 85,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 458,
+                "stars": 457,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -247,7 +247,7 @@
                 "open_issues": 208,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9029,
+                "stars": 9031,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -302,7 +302,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T11:08:21Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 960,
@@ -330,7 +330,7 @@
                 "open_issues": 54,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -699,7 +699,7 @@
             "open_issues": 65,
             "owner": "fsquillace",
             "repo": "junest",
-            "stars": 2231,
+            "stars": 2232,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:40:08.960Z",
+    "last_updated": "2026-10-17T00:44:15.064Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 594,
+      "stars": 595,
       "topics": [
         "arch-linux",
         "awesome",
