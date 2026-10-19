@@ -214,7 +214,7 @@
                 "open_issues": 212,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13785,
+                "stars": 13790,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 209,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9033,
+                "stars": 9036,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 64,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1917,
+                "stars": 1916,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -440,7 +440,7 @@
                 "open_issues": 0,
                 "owner": "gavinlyonsrepo",
                 "repo": "cylon",
-                "stars": 203,
+                "stars": 202,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:13:27.311Z",
+    "last_updated": "2026-10-19T00:25:16.161Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
