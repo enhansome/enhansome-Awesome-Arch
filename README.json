@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T16:13:24Z",
-                "open_issues": 212,
+                "last_commit": "2026-10-25T10:58:19Z",
+                "open_issues": 214,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13795,
+                "stars": 13798,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 209,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9045,
+                "stars": 9048,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 65,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1918,
+                "stars": 1917,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -302,7 +302,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T11:08:21Z",
-                "open_issues": 51,
+                "open_issues": 50,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 959,
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-24T06:27:01Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T18:47:58Z",
+            "open_issues": 8,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 135,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:29:44.267Z",
+    "last_updated": "2026-10-26T00:38:04.464Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
