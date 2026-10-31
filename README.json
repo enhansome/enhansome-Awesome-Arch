@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2573,
+            "stars": 2574,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -211,10 +211,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T09:47:40Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13807,
+                "stars": 13814,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 167,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9055,
+                "stars": 9061,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -383,7 +383,7 @@
                 "open_issues": 11,
                 "owner": "E5ten",
                 "repo": "pacaur",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -726,7 +726,7 @@
             "id": 219217453,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:43:59Z",
+            "last_commit": "2026-10-30T14:17:29Z",
             "open_issues": 8,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:06:49.935Z",
+    "last_updated": "2026-10-31T01:45:41.046Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
