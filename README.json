@@ -211,7 +211,7 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T09:47:40Z",
-                "open_issues": 221,
+                "open_issues": 222,
                 "owner": "Jguer",
                 "repo": "yay",
                 "stars": 13814,
@@ -247,7 +247,7 @@
                 "open_issues": 167,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9061,
+                "stars": 9064,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:45:41.046Z",
+    "last_updated": "2026-11-01T01:24:20.742Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
