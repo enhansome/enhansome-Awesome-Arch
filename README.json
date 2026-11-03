@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2815,
+            "stars": 2816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T09:47:40Z",
-                "open_issues": 222,
+                "last_commit": "2026-11-02T16:12:58Z",
+                "open_issues": 223,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13814,
+                "stars": 13816,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -244,10 +244,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T23:05:36Z",
-                "open_issues": 168,
+                "open_issues": 169,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9066,
+                "stars": 9070,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -726,7 +726,7 @@
             "id": 219217453,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:17:29Z",
+            "last_commit": "2026-11-02T05:20:01Z",
             "open_issues": 8,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:45:04.513Z",
+    "last_updated": "2026-11-03T03:39:50.041Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
