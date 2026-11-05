@@ -243,11 +243,11 @@
                 "id": 285393031,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T09:13:45Z",
-                "open_issues": 169,
+                "last_commit": "2026-11-04T09:25:30Z",
+                "open_issues": 165,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9073,
+                "stars": 9075,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -440,7 +440,7 @@
                 "open_issues": 0,
                 "owner": "gavinlyonsrepo",
                 "repo": "cylon",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -699,7 +699,7 @@
             "open_issues": 65,
             "owner": "fsquillace",
             "repo": "junest",
-            "stars": 2232,
+            "stars": 2233,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:38:21.253Z",
+    "last_updated": "2026-11-05T02:43:04.696Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
@@ -844,7 +844,7 @@
       "open_issues": 4,
       "owner": "PandaFoss",
       "repo": "Awesome-Arch",
-      "stars": 600,
+      "stars": 601,
       "topics": [
         "arch-linux",
         "awesome",
