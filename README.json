@@ -157,7 +157,7 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-09T08:44:45Z",
-                "open_issues": 85,
+                "open_issues": 87,
                 "owner": "vn971",
                 "repo": "rua",
                 "stars": 459,
@@ -211,10 +211,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-02T16:12:58Z",
-                "open_issues": 224,
+                "open_issues": 226,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13818,
+                "stars": 13821,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 165,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9075,
+                "stars": 9077,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:43:04.696Z",
+    "last_updated": "2026-11-06T02:46:22.513Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
