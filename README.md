@@ -139,7 +139,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Search and build
 
 * [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,063 | 🐛 23 | 🌐 Shell | 📅 2026-11-07 (Bash) - Helper tools for the AUR.
-* [RUA](https://github.com/vn971/rua) ⭐ 459 | 🐛 88 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+* [RUA](https://github.com/vn971/rua) ⭐ 459 | 🐛 89 | 🌐 Rust | 📅 2026-04-09 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 * [PKGBUILDer](https://github.com/Kwpolska/pkgbuilder) ⚠️ Archived (Python) - An AUR helper (and library) in Python 3.
 * [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
 * [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
@@ -147,7 +147,7 @@ This section tries to cover all these helpers, divided according to their functi
 ### Pacman wrappers
 
 * [Yay](https://github.com/Jguer/yay) ⭐ 13,822 | 🐛 226 | 🌐 Go | 📅 2026-11-02 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,075 | 🐛 165 | 🌐 Rust | 📅 2026-11-04 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,075 | 🐛 164 | 🌐 Rust | 📅 2026-11-04 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 * [Aura](https://github.com/fosskers/aura) ⭐ 1,916 | 🐛 66 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 958 | 🐛 50 | 🌐 Python | 📅 2026-10-12 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 * [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 54 | 🌐 Perl | 📅 2025-08-11 (Perl) - Lightweight AUR Package Manager.
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
