@@ -156,11 +156,11 @@
                 "id": 154670483,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T19:59:49Z",
-                "open_issues": 86,
+                "last_commit": "2026-11-16T10:17:31Z",
+                "open_issues": 76,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T13:51:49Z",
-                "open_issues": 234,
+                "last_commit": "2026-11-16T16:12:51Z",
+                "open_issues": 229,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13839,
+                "stars": 13837,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -247,7 +247,7 @@
                 "open_issues": 124,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9086,
+                "stars": 9090,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 67,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "Go Template",
             "license": "MIT",
-            "last_commit": "2026-11-15T21:46:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-16T11:53:31Z",
+            "open_issues": 3,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 135,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:21:18.789Z",
+    "last_updated": "2026-11-17T04:44:02.921Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
