@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "MatMoul",
             "repo": "archfi",
-            "stars": 2573,
+            "stars": 2572,
             "topics": [
               "arch-linux",
               "arch-linux-installation",
@@ -77,7 +77,7 @@
                 "open_issues": 3,
                 "owner": "falconindy",
                 "repo": "auracle",
-                "stars": 259,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -131,7 +131,7 @@
                 "open_issues": 18,
                 "owner": "aurutils",
                 "repo": "aurutils",
-                "stars": 1065,
+                "stars": 1066,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -157,10 +157,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-16T10:17:31Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 459,
+                "stars": 458,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -214,7 +214,7 @@
                 "open_issues": 229,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13837,
+                "stars": 13839,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -243,11 +243,11 @@
                 "id": 285393031,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T00:03:13Z",
+                "last_commit": "2026-11-17T22:01:44Z",
                 "open_issues": 124,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9090,
+                "stars": 9095,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -302,7 +302,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T11:08:21Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 959,
@@ -597,7 +597,7 @@
                 "open_issues": 1,
                 "owner": "anatol",
                 "repo": "pkgoutofdate",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -646,7 +646,7 @@
                 "open_issues": 2,
                 "owner": "GermainZ",
                 "repo": "aur-talk",
-                "stars": 16,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:55.997Z"
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "Go Template",
             "license": "MIT",
-            "last_commit": "2026-11-16T11:53:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-17T17:37:55Z",
+            "open_issues": 5,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 135,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:44:02.921Z",
+    "last_updated": "2026-11-18T03:49:16.075Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
