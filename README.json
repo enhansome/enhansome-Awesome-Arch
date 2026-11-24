@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "helmuthdu",
             "repo": "aui",
-            "stars": 2815,
+            "stars": 2814,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:55.997Z"
@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T22:21:38Z",
+                "last_commit": "2026-11-23T16:12:53Z",
                 "open_issues": 230,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13845,
+                "stars": 13849,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -244,10 +244,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-18T20:50:09Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9109,
+                "stars": 9116,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 67,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -302,7 +302,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T11:08:21Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "actionless",
                 "repo": "pikaur",
                 "stars": 958,
@@ -726,8 +726,8 @@
             "id": 219217453,
             "language": "Go Template",
             "license": "MIT",
-            "last_commit": "2026-11-21T05:40:29Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T11:53:01Z",
+            "open_issues": 2,
             "owner": "ulises-jeremias",
             "repo": "dotfiles",
             "stars": 136,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:01:34.649Z",
+    "last_updated": "2026-11-24T06:18:39.048Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",
