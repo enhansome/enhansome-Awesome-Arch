@@ -160,7 +160,7 @@
                 "open_issues": 77,
                 "owner": "vn971",
                 "repo": "rua",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "arch-user-repository",
                   "archlinux",
@@ -210,11 +210,11 @@
                 "id": 67382094,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T16:12:53Z",
+                "last_commit": "2026-11-25T08:53:34Z",
                 "open_issues": 230,
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13851,
+                "stars": 13857,
                 "topics": [
                   "archlinux",
                   "aur",
@@ -243,11 +243,11 @@
                 "id": 285393031,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T20:56:38Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-25T21:21:15Z",
+                "open_issues": 128,
                 "owner": "Morganamilo",
                 "repo": "paru",
-                "stars": 9119,
+                "stars": 9126,
                 "topics": [
                   "arch",
                   "archlinux",
@@ -278,7 +278,7 @@
                 "open_issues": 67,
                 "owner": "fosskers",
                 "repo": "aura",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": [
                   "arch-linux",
                   "aura",
@@ -330,7 +330,7 @@
                 "open_issues": 54,
                 "owner": "trizen",
                 "repo": "trizen",
-                "stars": 820,
+                "stars": 821,
                 "topics": [
                   "arch",
                   "arch-linux",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:59:58.376Z",
+    "last_updated": "2026-11-26T04:18:48.656Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A complete list of Arch-based projects",

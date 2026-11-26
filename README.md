@@ -139,18 +139,18 @@ This section tries to cover all these helpers, divided according to their functi
 ### Search and build
 
 * [Aurutils](https://github.com/AladW/aurutils) ⭐ 1,069 | 🐛 18 | 🌐 Shell | 📅 2026-11-13 (Bash) - Helper tools for the AUR.
-* [RUA](https://github.com/vn971/rua) ⭐ 459 | 🐛 77 | 🌐 Rust | 📅 2026-11-16 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+* [RUA](https://github.com/vn971/rua) ⭐ 460 | 🐛 77 | 🌐 Rust | 📅 2026-11-16 (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 * [PKGBUILDer](https://github.com/Kwpolska/pkgbuilder) ⚠️ Archived (Python) - An AUR helper (and library) in Python 3.
 * [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
 * [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
 
 ### Pacman wrappers
 
-* [Yay](https://github.com/Jguer/yay) ⭐ 13,851 | 🐛 230 | 🌐 Go | 📅 2026-11-23 (Go) - Yet another Yogurt, an AUR Helper written in Go.
-* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,119 | 🐛 129 | 🌐 Rust | 📅 2026-11-24 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
-* [Aura](https://github.com/fosskers/aura) ⭐ 1,919 | 🐛 67 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+* [Yay](https://github.com/Jguer/yay) ⭐ 13,857 | 🐛 230 | 🌐 Go | 📅 2026-11-25 (Go) - Yet another Yogurt, an AUR Helper written in Go.
+* [Paru](https://github.com/Morganamilo/paru) ⭐ 9,126 | 🐛 128 | 🌐 Rust | 📅 2026-11-25 (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+* [Aura](https://github.com/fosskers/aura) ⭐ 1,920 | 🐛 67 | 🌐 Haskell | 📅 2026-02-05 (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 * [pikaur](https://github.com/actionless/pikaur) ⭐ 958 | 🐛 51 | 🌐 Python | 📅 2026-10-12 (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
-* [Trizen](https://github.com/trizen/trizen) ⭐ 820 | 🐛 54 | 🌐 Perl | 📅 2026-11-19 (Perl) - Lightweight AUR Package Manager.
+* [Trizen](https://github.com/trizen/trizen) ⭐ 821 | 🐛 54 | 🌐 Perl | 📅 2026-11-19 (Perl) - Lightweight AUR Package Manager.
 * [Pakku](https://github.com/kitsunyan/pakku) ⭐ 136 | 🐛 23 | 🌐 Nim | 📅 2020-11-12 (Nim) - `pacman` wrapper with AUR support.
 * [Pacaur](https://github.com/E5ten/pacaur) ⭐ 117 | 🐛 11 | 🌐 Shell | 📅 2021-08-27 (Bash) - An AUR helper that minimizes user interaction.
 * [amethyst](https://github.com/crystal-linux/amethyst) ⚠️ Archived (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
@@ -254,7 +254,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,122 | 🐛 99 | 🌐 MDX | 📅 2026-11-25 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,123 | 🐛 99 | 🌐 MDX | 📅 2026-11-26 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -264,4 +264,4 @@ To the extent possible under law, Panda Foss has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
